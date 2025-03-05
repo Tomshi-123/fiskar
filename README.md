@@ -1,5 +1,5 @@
-# Mitt Projekt
+# Fiskar
 
 Välkommen till mitt projekt! Du kan kolla på koden här:
 
-[GitHub Repository](https://github.com/Tomshi-123/fiskar)
+<a href="https://github.com/Tomshi-123/fiskar">Länk till repository</a>
