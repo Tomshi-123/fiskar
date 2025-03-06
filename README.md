@@ -1,4 +1,3 @@
-# Fiskar
 
 Välkommen till mitt projekt! Du kan kolla på koden här:
 
